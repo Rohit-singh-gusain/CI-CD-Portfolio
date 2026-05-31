@@ -91,7 +91,7 @@ cd CI-CD-Portfolio
 ### 2. Provision infrastructure with Terraform
 
 # Initialize and apply
-
+create your own root terraform files according to your configuration e.g(aws_region,bucket_name)
 terraform init
 terraform plan
 terraform apply
